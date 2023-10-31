@@ -20,6 +20,7 @@ Azure Synapse Analytics, a powerful analytics service, is used for data warehous
 <img src="Azure Data Factory.PNG">
 
 For the purpose of showcasing the analyzed data in a visually captivating and interactive fashion, Power BI is put into action. Power BI empowers the creation of user-friendly dashboards and reports that can be easily shared with and accessed by stakeholders. It offers the capability to monitor data in real-time, conduct on-the-fly analysis, and acquire valuable insights into the performance, trends, and patterns of the Olympic Games.
+<img src="Olympic Dashboard.PNG">
 
 
 In summary, the Tokyo Olympic Data Engineering Project demonstrates the fusion of Azure services to construct a resilient and scalable data engineering solution. It highlights the potential of Azure Data Factory for data integration, Azure Databricks for data processing, Azure Synapse Analytics for advanced analytics, and Power BI for data presentation. Through the utilization of these services, the project facilitates effective data handling, analysis, and visualization, thereby elevating the decision-making process and delivering invaluable insights into the Tokyo Olympic Games.
